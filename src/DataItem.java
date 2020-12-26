@@ -10,6 +10,8 @@ public class DataItem {
     }
 	
 	public DataItem(){}
+	
+	public void sum(){}
     
     
 
