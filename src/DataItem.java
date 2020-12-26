@@ -9,6 +9,8 @@ public class DataItem {
         return iData;
     }
 	
-	
+    public int getKey2(){
+        return iData;
+    }
 
 }
