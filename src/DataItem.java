@@ -30,7 +30,7 @@ public class DataItem {
    public void sum(){}
     
     
-
+   public void a(){}
     
     
     
