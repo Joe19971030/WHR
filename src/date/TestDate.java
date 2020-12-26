@@ -21,7 +21,7 @@ public class TestDate {
         Date d3=c.getTime();
         
         System.out.println(d3);
-        
+        System.out.println();
         
     }
 }
