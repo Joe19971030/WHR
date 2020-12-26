@@ -17,6 +17,15 @@ public class DataItem {
 	public DataItem(){}
     
     
+	public void newF(){}
+   
+    
+    
+
+    
+    
+    
+    
 
    public void sum(){}
     
