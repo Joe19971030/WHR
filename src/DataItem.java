@@ -9,6 +9,8 @@ public class DataItem {
         return iData;
     }
 	
-	
+	public DataItem(){}
+    
+    
 
 }
