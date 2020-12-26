@@ -17,7 +17,7 @@ public class DataItem {
 	public DataItem(){}
     
     
-
+	public void newF(){}
    
     
     
