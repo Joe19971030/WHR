@@ -9,7 +9,7 @@ public class DataItem {
         return iData;
     }
 	
-    public int getKey2(){
+    public int getKey3(){
         return iData;
     }
 
