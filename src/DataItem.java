@@ -9,9 +9,23 @@ public class DataItem {
         return iData;
     }
 	
+ 
+    
+    public int getKey3(){
+        return iData;
+    }
 	public DataItem(){}
 	
 	public void sum(){}
+    
+    
+
+   
+    
+    
+
+    
+    
     
     
 
