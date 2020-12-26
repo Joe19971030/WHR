@@ -15,57 +15,10 @@ public class DataItem {
         return iData;
     }
 	public DataItem(){}
-	
-	public void sum(){}
     
     
 
-   
-    
-    
-
-    
-    
-    
-    
-
-   
-    
-    
-
-    
-    
-    
-    
-
-   
-    
-    
-
-    
-    
-    
-    
-
-   
-    
-    
-
-    
-    
-    
-    
-
-   
-    
-    
-
-    
-    
-    
-    
-
-   
+   public void sum(){}
     
     
 
